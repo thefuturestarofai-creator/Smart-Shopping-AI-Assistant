@@ -3,7 +3,7 @@
 本项目为“字节跳动2026年AI全栈挑战赛”第一志愿课题的敏捷全栈原型。通过全量拥抱 AI Coding 工具，在极短时间内完成了端到端的 UI 设计与前端部署。
 
 ## 🚀 项目在线演示
-- **Live Demo:** [把你的Vercel链接粘贴在这里]
+- **Live Demo:** [https://v0-project-one-hazel-36.vercel.app/]
 
 ## 🛠️ 核心开发工具链
 - **AI IDE:** Trae (字节自研 AI 编程工具) & Cursor
