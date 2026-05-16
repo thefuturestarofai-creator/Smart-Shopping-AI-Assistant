@@ -6,7 +6,7 @@
 - **Live Demo:** [https://v0-project-one-hazel-36.vercel.app/]
 
 ## 🛠️ 核心开发工具链
-- **AI IDE:** Cursor，Trae 
+- **AI IDE:** `Cursor`，Trae 
 - **UI Generator:** Vercel v0.dev
 - **Deployment:** Vercel Cloud
 
